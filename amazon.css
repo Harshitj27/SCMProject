@@ -8,22 +8,22 @@
 {
     height: 60px;
     background-color: #0f1111;
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
 .nav-logo
 {
-    height: 50px;
-    width: 100px;
+    height: 60px;
+    width: 120px;
 }
 .logo
 {
     height: 50px;
     width: 100px;
     background-size: cover;
-    color: darkgoldenrod;
+    color: yellow;
     
 }
 .border
@@ -43,8 +43,8 @@
 }
 .add-second
 {
-    font-size: 1rem;
-    margin-left: 3px;
+    font-size: 1.1rem;
+    margin-left: 4px;
 }
 .add-icon
 {
