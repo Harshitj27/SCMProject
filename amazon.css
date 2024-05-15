@@ -23,12 +23,12 @@
     height: 50px;
     width: 100px;
     background-size: cover;
-    color: darkgoldenrod;
+    color: blue;
     
 }
 .border
 {
-    border: 1.5px solid transparent;
+    border: 2px dotted transparent;
 }
 .border:hover
 {
